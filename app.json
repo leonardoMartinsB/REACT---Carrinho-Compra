@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "carrinho-de-compra",
+    "slug": "snack-e1afc109-2385-4564-979a-239d93921855",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/FabricioAllves/Carrinho-de-compra @ Dec 2, 2022"
+  }
+}
